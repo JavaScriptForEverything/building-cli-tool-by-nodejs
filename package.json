@@ -1,0 +1,15 @@
+{
+  "name": "cli-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo hi"
+  },
+	"bin": {
+		"setup-project": "./app.js"
+	},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
