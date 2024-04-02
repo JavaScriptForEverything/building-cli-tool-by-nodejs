@@ -1,5 +1,9 @@
 ## Building CLI Tools in `JavaScript`
 
+![output](https://github.com/JavaScriptForEverything/building-cli-tool-by-nodejs/blob/main/output.gif)
+
+
+
 [Project Concept + Example found here](https://dev.to/shreshthgoyal/a-guide-to-building-cli-tools-in-javascript-28nn)
 
 
